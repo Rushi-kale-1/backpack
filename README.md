@@ -1,5 +1,5 @@
 <div align="center">
-OkaY!
+
   <img src="/assets/backpack.png" />
 
   <h1>Backpack</h1>
